@@ -72,3 +72,5 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 sudo /etc/init.d/postgresql start
 eval "$(direnv hook zsh)"
+export BROWSER="/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe'"
